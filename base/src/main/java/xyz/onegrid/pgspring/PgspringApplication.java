@@ -9,5 +9,4 @@ public class PgspringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PgspringApplication.class, args);
 	}
-
 }
